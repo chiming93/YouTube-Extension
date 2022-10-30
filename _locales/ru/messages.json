@@ -65,6 +65,9 @@
     "analyzer": {
         "message": "Анализатор"
     },
+    "animations": {
+        "message": "Animations"
+    },
     "appearance": {
         "message": "Внешний вид"
     },
@@ -305,6 +308,9 @@
     "dislike": {
         "message": "Дизлайк"
     },
+    "displayDayOfTheWeak": {
+        "message": "Display day of the weak"
+    },
     "doNotChange": {
         "message": "Не менять"
     },
@@ -319,6 +325,9 @@
     },
     "dropShadow": {
         "message": "Отбрасывемая тень"
+    },
+    "durationWithSpeed": {
+        "message": "Show time remaining with reference to playback speed"
     },
     "email": {
         "message": "E-mail"
@@ -413,6 +422,9 @@
     "green": {
         "message": "Зеленый"
     },
+    "hardwareInformation": {
+        "message": "Hardware information"
+    },
     "hd": {
         "message": "HD"
     },
@@ -434,11 +446,14 @@
     "hideAnnotations": {
         "message": "Скрывать аннотации"
     },
-    "hideButtonLabel": {
-        "message": "Hide Button Label"
-    },
     "hideCards": {
         "message": "Скрывать карточки"
+    },
+    "hideCategories": {
+        "message": "Hide categories"
+    },
+    "hideCommentsCount": {
+        "message": "Hide comments count"
     },
     "hideCountryCode": {
         "message": "Скрывать код страны"
@@ -560,6 +575,12 @@
     "languages": {
         "message": "Языки"
     },
+    "layerAnimationScale": {
+        "message": "Layer animation scale"
+    },
+    "layout": {
+        "message": "Layout"
+    },
     "legacyYoutube": {
         "message": "Старая версия YouTube"
     },
@@ -578,11 +599,11 @@
     "like": {
         "message": "Лайк"
     },
-    "likeAndDislike": {
-        "message": "Like and Dislike "
-    },
     "liked": {
         "message": "Понравившиеся"
+    },
+    "likes": {
+        "message": "Likes"
     },
     "lime": {
         "message": "Лайм"
@@ -623,6 +644,9 @@
     "more": {
         "message": "More"
     },
+    "mostViewedChannels": {
+        "message": "Most viewed channels"
+    },
     "moveSidebarLeft": {
         "message": "Сместить боковую панель влево"
     },
@@ -646,6 +670,9 @@
     },
     "night": {
         "message": "Ночь"
+    },
+    "nightMode": {
+        "message": "Night mode"
     },
     "noActiveFeatures": {
         "message": "Нет активных функций"
@@ -878,11 +905,17 @@
     "showRemainingDuration": {
         "message": "Показать время до конца видео"
     },
+    "showVersion": {
+        "message": "Show version"
+    },
     "shuffle": {
         "message": "Перемешать"
     },
     "sidebar": {
         "message": "Боковая панель"
+    },
+    "softwareInformation": {
+        "message": "Software information"
     },
     "spacebar": {
         "message": "Пробел"

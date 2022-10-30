@@ -51,7 +51,7 @@
         "message": "Permetti 60 fps"
     },
     "always": {
-        "message": "Always"
+        "message": "Sempre"
     },
     "alwaysActive": {
         "message": "Sempre attivo"
@@ -64,6 +64,9 @@
     },
     "analyzer": {
         "message": "Analizzatore"
+    },
+    "animations": {
+        "message": "Animations"
     },
     "appearance": {
         "message": "Aspetto"
@@ -93,16 +96,16 @@
         "message": "Avvio automatico"
     },
     "avoidAv1": {
-        "message": "Avoid AV1"
+        "message": "Evita AV1"
     },
     "avoidAv1Vp8Vp9": {
-        "message": "Avoid AV1, VP8, VP9"
+        "message": "Evita AV1, VP8, VP9"
     },
     "avoidAv1Vp9": {
-        "message": "Avoid AV1, VP9"
+        "message": "Evita AV1, VP9"
     },
     "avoidCpuRenderingWhenPossible": {
-        "message": "Avoid CPU rendering when possible"
+        "message": "Evita rendering tramite CPU quando possibile"
     },
     "backgroundColor": {
         "message": "Colore di sfondo"
@@ -129,19 +132,19 @@
         "message": "Blocca tutte"
     },
     "blockAv1": {
-        "message": "Block AV1"
+        "message": "Blocca AV1"
     },
     "blockH264": {
-        "message": "Block H.264"
+        "message": "Blocca H.264"
     },
     "blockMusic": {
         "message": "Blocca musica"
     },
     "blockVp8": {
-        "message": "Block VP8"
+        "message": "Blocca VP8"
     },
     "blockVp9": {
-        "message": "Block VP9"
+        "message": "Blocca VP9"
     },
     "blue": {
         "message": "Blu"
@@ -302,6 +305,9 @@
     "dislike": {
         "message": "Non mi piace"
     },
+    "displayDayOfTheWeak": {
+        "message": "Display day of the weak"
+    },
     "doNotChange": {
         "message": "Non cambiare"
     },
@@ -316,6 +322,9 @@
     },
     "dropShadow": {
         "message": "Drop shadow"
+    },
+    "durationWithSpeed": {
+        "message": "Show time remaining with reference to playback speed"
     },
     "email": {
         "message": "E-mail"
@@ -410,6 +419,9 @@
     "green": {
         "message": "Verde"
     },
+    "hardwareInformation": {
+        "message": "Hardware information"
+    },
     "hd": {
         "message": "HD"
     },
@@ -431,11 +443,14 @@
     "hideAnnotations": {
         "message": "Nascondi annotazioni"
     },
-    "hideButtonLabel": {
-        "message": "Hide Button Label"
-    },
     "hideCards": {
         "message": "Nascondi tessere di fine video"
+    },
+    "hideCategories": {
+        "message": "Hide categories"
+    },
+    "hideCommentsCount": {
+        "message": "Hide comments count"
     },
     "hideCountryCode": {
         "message": "Nascondi codice paese"
@@ -554,6 +569,12 @@
     "languages": {
         "message": "Lingue"
     },
+    "layerAnimationScale": {
+        "message": "Layer animation scale"
+    },
+    "layout": {
+        "message": "Layout"
+    },
     "legacyYoutube": {
         "message": "YouTube versione legacy"
     },
@@ -572,11 +593,11 @@
     "like": {
         "message": "Mi piace"
     },
-    "likeAndDislike": {
-        "message": "Like and Dislike "
-    },
     "liked": {
         "message": "Piaciuto"
+    },
+    "likes": {
+        "message": "Likes"
     },
     "lime": {
         "message": "Lime"
@@ -617,6 +638,9 @@
     "more": {
         "message": "More"
     },
+    "mostViewedChannels": {
+        "message": "Most viewed channels"
+    },
     "moveSidebarLeft": {
         "message": "Sposta barra laterale a sinistra"
     },
@@ -640,6 +664,9 @@
     },
     "night": {
         "message": "Notte"
+    },
+    "nightMode": {
+        "message": "Night mode"
     },
     "noActiveFeatures": {
         "message": "Nessuna funzione attivata"
@@ -872,11 +899,17 @@
     "showRemainingDuration": {
         "message": "Mostra durata residua del video"
     },
+    "showVersion": {
+        "message": "Show version"
+    },
     "shuffle": {
         "message": "Riproduzione casuale"
     },
     "sidebar": {
         "message": "Barra laterale"
+    },
+    "softwareInformation": {
+        "message": "Software information"
     },
     "spacebar": {
         "message": "Barra spaziatrice"
